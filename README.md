@@ -1,6 +1,6 @@
 <!-- PROJECT TITLE -->
 <h1 align="center">Marhba
-Hypermarket Analysis </h1>
+Hypermarket  </h1>
 
 <!-- HEADER -->
 <p align="center">
