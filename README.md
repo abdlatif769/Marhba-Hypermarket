@@ -4,7 +4,7 @@ Hypermarket Analysis </h1>
 
 <!-- HEADER -->
 <p align="center">
-  <img src="Images/Header.png"/>
+  <img src="Images/Header.jpeg"/>
 </p>
 
 <!-- PROJECT OVERVIEW -->
